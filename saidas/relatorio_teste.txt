@@ -1,0 +1,10 @@
+Número de vértices: 5
+Número de arestas: 5
+Grau mínimo: 1
+Grau máximo: 4
+Grau médio: 2.00
+Mediana de grau: 2
+
+--- Componentes Conexas ---
+Total de componentes: 1
+Componente 1 -> Tamanho: 5 vértices | Vértices: [1, 2, 3, 4, 5]
